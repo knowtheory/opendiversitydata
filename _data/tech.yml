@@ -94,8 +94,8 @@ companies:
     img: cisco.jpeg
     diversitydata: Yes
     eeo-1: Yes
-    documentation: http://www.cisco.com/assets/csr/pdf/CSR_Report_2013.pdf
-    date-updated: 2014
+    documentation: https://www.cisco.com/c/en/us/about/csr/csr-report.html#~stickynav=5
+    date-updated: 2017
     status: Yes
 
   - name: Cloudera
@@ -133,9 +133,9 @@ companies:
     twitter: eBay
     img: ebay.jpeg
     diversitydata: Yes
-    eeo-1: No
-    documentation: http://blog.ebay.com/building-stronger-better-diverse-ebay/
-    date-updated: 2014
+    eeo-1: Yes
+    documentation: https://www.ebayinc.com/our-company/diversity-inclusion/
+    date-updated: 2017
     status: Yes
 
   - name: Facebook
