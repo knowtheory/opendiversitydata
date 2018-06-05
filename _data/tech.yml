@@ -244,8 +244,8 @@ companies:
     img: microsoft.jpeg
     diversitydata: Yes
     eeo-1: Yes
-    documentation: http://www.microsoft.com/en-us/news/inside_ms.aspx#EmploymentInfo
-    date-updated: 2014
+    documentation: https://www.microsoft.com/en-us/diversity/inside-microsoft/default.aspx#epgDivFocusArea
+    date-updated: 2017
     status: Yes
 
   - name: Netflix
